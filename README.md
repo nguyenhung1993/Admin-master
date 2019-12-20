@@ -1,32 +1,5 @@
 # Admin
 
-**Features**
-* 3+ Different Dashboards
-* 6 Different Demos
-* 5+ Ready to Use Application Designs
-* Amazingly Designed and Carefully Crafted Template
-* RTL Version (New)
-* Unlimited Color Skins
-* Clean and Creative Landing Page Included (Free $18)
-* Light and Dark Color Schemes
-* 900+ pages
-* 500+ Ui Components
-* RTL Support
-* Lots of widgets
-* Bootstrap 4
-* 3000+ Fonts Icons
-* Fully Responsive pages
-* SaSS Base CSS
-* Easy to customize
-* Many Charts Options
-* Multi File upload
-* Lots of Table Examples
-* Validation Forms
-* Data Table Export to CSV, Excel, PDF, Copy and Print
-* Megamenu
-* Lightbox
-* Summernote
-
 **Applications**
 * Chat Application (New)
 * Support Ticket (New)
